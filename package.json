@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@metamask/onboarding": "^1.0.0",
+    "@openzeppelin/contracts": "^4.0.0",
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "ethers": "*",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.3.5"
+  }
+}
